@@ -6,3 +6,6 @@ gelistet und können Dateien committen (also im Repository ablegen)
 und auch anfordern (also eine Kopie herunterladen)
 
 Diese Datei ist die erste im Projekt
+
+
+- Meine Änderung =)
