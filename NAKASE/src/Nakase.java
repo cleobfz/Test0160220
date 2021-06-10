@@ -1,4 +1,4 @@
 
 public class Nakase {
-	1
+	12
 }
